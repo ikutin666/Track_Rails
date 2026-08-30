@@ -1,0 +1,26 @@
+# Операционные системы
+.DS_Store
+Thumbs.db
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Временные файлы Microsoft Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Локальное окружение и секреты
+.env
+.env.*
+!.env.example
+
+# Временные каталоги и результаты локальной сборки
+tmp/
+.tmp/
+out/
+dist/
